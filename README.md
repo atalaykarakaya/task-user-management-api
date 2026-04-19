@@ -83,8 +83,3 @@ A production-style Spring Boot REST API for managing tasks and users.
   }
 }
 ```
-
-## CV Bullet Suggestions
-- Designed and implemented a layered Spring Boot REST API using DTO mapping, validation, and global exception handling.
-- Built integration tests with MockMvc for end-to-end endpoint verification.
-- Applied clean architecture principles and improved API consistency with versioning and standardized responses.
